@@ -1,0 +1,14 @@
+pandas
+numpy
+requests
+python-dotenv
+sqlalchemy
+streamlit
+plotly
+google-api-python-client
+pytrends
+transformers
+torch
+sentencepiece
+protobuf
+tqdm
